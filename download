@@ -1,6 +1,6 @@
 {
   "version": "3.92301",
   "link": "https://github.com/zunjae/anYme/blob/master/anYme.apk?raw=true",
-  "adblock_version": "2",
+  "adblock_version": "3",
   "short_description": "Edit tags on an Anime, bug fixes (correct status, tags not updating) and app speedup!"
 }
