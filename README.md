@@ -14,8 +14,8 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 * Built-in AdBlocker which blocks annoying ads and trackers
 * Discover, add and update your Anime
 * Don't know what to watch, use the Random Anime button
-* Easily cleanup your MyAnimeList profile http://i.imgur.com/Af78Xp5.jpg
-* Quickly see how long it'll take before a NYA Anime airs http://i.imgur.com/t4fYM3N.png
+* Easily cleanup your MyAnimeList profile
+* Quickly see how long it'll take before a NYA Anime airs
 * See the schedule of your favorite Anime
 
 
