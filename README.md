@@ -9,7 +9,6 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 
 # Features
 
-* Watch Anime
 * Synchronize with MyAnimeList
 * Built-in AdBlocker which blocks annoying ads and trackers
 * Discover, add and update your Anime
