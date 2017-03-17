@@ -37,6 +37,8 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 * FontAwesome
 * Fabric
 
+## Disclaimer
+
 All of the free anime found on this app are hosted on third-party servers that are freely available to watch online for all internet users. Any legal issues regarding the free online anime should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the anime, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.
 
 ###### I'm a fan of Open Source, so I will eventually release my app here on GitHub once I am happy with my code. Since I am still learning Android Development, I do not want to release bad code (because it will influence new programmers). I also do not want someone else to improve my code since that would interfere with my learning experience. I understand that this contradict the whole idea of collaborative programming, but I want to achieve the basics by doing it myself.
